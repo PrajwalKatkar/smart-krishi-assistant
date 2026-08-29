@@ -14,7 +14,7 @@
   <strong>Telling farmers what action to take today, when, and why — with zero agricultural jargon.</strong>
 </p>
 
-[🚀 Live Demo](http://localhost:5173/) • [✨ Key Modules](#-platform-modules) • [🏗️ System Architecture](#️-system-architecture) • [🏆 Judge Cheat Sheet](#-hackathon-judge-cheat-sheet) • [⚡ Quickstart](#-quickstart-guide)
+[🚀 Live Demo](http://smart-krishi-assistant-rouge.vercel.app/) • [✨ Key Modules](#-platform-modules) • [🏗️ System Architecture](#️-system-architecture) • [🏆 Judge Cheat Sheet](#-hackathon-judge-cheat-sheet) • [⚡ Quickstart](#-quickstart-guide)
 
 </div>
 
